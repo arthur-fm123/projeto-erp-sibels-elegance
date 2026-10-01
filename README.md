@@ -1,4 +1,9 @@
 # P r o j e t o E R P — S i b e l s E l e g a n c e 
+
+Este repositório reúne a primeira entrega do Projeto Integrador da disciplina de Modelagem de Dados. A equipe atuou como uma startup contratada para organizar as informações da Sibels Elegance, empresa familiar do segmento de semijoias que hoje controla vendas, estoque, clientes e fornecedores de forma manual e descentralizada.
+
+A partir do levantamento dos processos de negócio, problemas, requisitos e regras, foi construído o modelo conceitual de dados que servirá de base para um futuro sistema ERP. Estão incluídos a caracterização da empresa, os requisitos funcionais e não funcionais, as regras de negócio, os fluxogramas dos processos, o dicionário de dados conceitual, o Diagrama Entidade-Relacionamento (DER) e as justificativas técnicas das decisões de modelagem.
+
 # # 1 . E q u i p e 3
 # # 2 . C a r a c t e r i z a ç ã o d a e m p r e s a
 # # 3 . J u s t i f i c a t i v a d a e s c o l h a
